@@ -1,6 +1,5 @@
 import click
 import requests
-from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
 session = requests.Session()
